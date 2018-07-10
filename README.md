@@ -1,7 +1,7 @@
 # Fdf
 
 # Compiling
-`$. make`
+`$> make`
 
 # Run
 
