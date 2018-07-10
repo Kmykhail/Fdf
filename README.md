@@ -1,5 +1,9 @@
 # Fdf
 
+# Compiling
+`$. make`
+
+# Run
 
 <img width="1045" alt="screen shot 2018-07-10 at 7 52 58 pm" src="https://user-images.githubusercontent.com/31519926/42525165-223189fc-847b-11e8-9bff-dda90e07a567.png">
 
